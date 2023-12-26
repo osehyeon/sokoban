@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(332,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(333,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(354,39): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(355,39): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(356,43): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(357,35): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(363,20): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(365,20): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(388,17): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(391,17): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(394,15): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(397,15): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(404,20): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(406,20): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\lab419_os\source\repos\sokoban\main.cpp(482,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 158 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  sokoban.vcxproj -> C:\Users\lab419_os\source\repos\sokoban\Release\sokoban.exe
